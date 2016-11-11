@@ -1,0 +1,18 @@
+body{
+  background-image:url('http://img13.deviantart.net/5075/i/2005/172/8/0/golden_banana_by_originals1n.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#startgame{
+  display:block;
+  margin:0 auto;
+  background #ffffff;
+  font-family: Impact;
+  font-size: 50px;
+  color: #ff0066
+}
+
+.hidden{
+  display: none;
+}
